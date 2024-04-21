@@ -1,4 +1,4 @@
-# Multimodal Skin lesion Clasification
+# Multimodal Skin lesion Classification
 
 Following project is a research project on use of Multimodal Attention based Model for Skin lesion Classification. The project was developed with the aim of implementing a multimodal Attention-based method that uses Radar signals from skin and image data to classify skin lesions and therefore eventually contribute in early detection of skin cancer.
 
