@@ -11,7 +11,7 @@ Following project is a research project on use of Multimodal Attention based Mod
 - Images of skin lesion
 Above data is not shared publically in the repository as per Siegen Univerity Policy.
 
-**Model Architecture**: The model architecture is referenced from the research paper - [Multimodal attention-based deep learning for Alzheimer’s disease diagnosis](https://academic.oup.com/jamia/article/29/12/2014/6712292?login=true) 
+**Model Architecture**: Some of the model architecture was adopted from the research paper - [Multimodal attention-based deep learning for Alzheimer’s disease diagnosis](https://academic.oup.com/jamia/article/29/12/2014/6712292?login=true) 
 ![Untitled Diagram drawio](https://github.com/ShantanuShirsath/Multimodal-skin-lesion-classification/assets/130396026/89fcffde-612f-406c-905f-61b60db00d2e)
 
 
